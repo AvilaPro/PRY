@@ -1,0 +1,12 @@
+Enunciado de la tarea 1 de la sección 2766
+Realizar las siguientes actividades:
+
+1.- Instalar Angular y Crear un proyecto nuevo de Angular con el nombre "frontendweb"
+
+2.- Pasar la estructura de la página de su proyecto (encabezado, menú y footer) y colocarla en el index de la nueva aplicación Angular
+
+3.- Modificar el HTML del componente app.component.html para que tenga el código necesario para hacer el inicio de sesión
+
+4.- Crear un componente con el nombre "registro" y modificar el HTML para que tenga el código necesario para registrar un usuario
+
+5.- Crear un componente con el nombre "productos" y Modificar el HTML para que tenga el código necesario para mostrar el listado de productos

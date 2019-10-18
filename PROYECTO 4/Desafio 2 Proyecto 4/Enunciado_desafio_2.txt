@@ -1,0 +1,12 @@
+Enunciado de la tarea 2 de la sección 2766
+Realizar las siguientes actividades y hacer un PRINTSCREEN de cada de ellas donde quede evidencia de la actividad que realizó:
+
+1.- Instalar Ionic y crear un nuevo proyecto en Ionic con la plantilla Tabs para que sirva de Front-End-Móvil de su proyecto
+
+2.- En una de las páginas definir un arreglo de Strings donde se almacenen las categorías de los productos y mostrar esa categorías en una lista con un avatar que represente a la categoría
+
+3.- Definir un arreglo de Productos (con los datos: nombre, precio, enOferta) en una de las páginas y mostrar con slides las imagenes de los productos que estan en ofertas con un texto que muestre el precio del producto
+
+4.- Definir un arreglo de Productos (con los datos: nombre, precio, enOferta) en una de las páginas y mostrar con cards todos los productos del arreglo de productos
+
+5.- Mostrar en una de las páginas la información del perfil del supuesto usuario que esta usando la aplicación en ese momento

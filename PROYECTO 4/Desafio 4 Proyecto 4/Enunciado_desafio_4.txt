@@ -1,0 +1,12 @@
+Enunciado de la tarea 4 de la sección 2766
+Usando el API de la URL https://api-shopcar-cadif1.000webhostapp.com/. Consultar la documentación en la URL http://woocommerce.github.io/woocommerce-rest-api-docs/ para realizar las siguientes actividades tanto en la aplicación Angular como en la de Ionic :
+
+1.- Instalar el WooCommerce REST API (consultar la URL https://www.npmjs.com/package/woocommerce-api y conectarse al API usando el consumer_key=ck_c2d8ae3638be0d856478734a06c701c81bb493f3 y consumer_secret=cs_16c5bd4a8bb651e91445c36973e960a5e937a7ff.
+
+2.- Utilizar el API en el servicio de Productos creado en el desafío anterior y sustituir los valores definidos manualmente por los valores obtenidos del API. Crear un servicio que obtenga las categorias disponibles en el Backend y mostrar las categorias en alguna de las vistas de la aplicación Ionic y de la aplicación Angular
+
+3.- Al seleccionar una categoría, mostrar los productos que pertenecen a esa categoría (Nota: no hay un servicio que retorna esto. Se debe usar el arreglo de productos y mostrar los que contienen en la propiedad "categories" el id de la categoría seleccionada)
+
+4.- Crear (si no la tiene) en Ionic y Angular las interfaces para registrar un usuario y para iniciar sesión. Crear un servicio (o provider) en ambos Front que se conecten con el API y programar ambas interfaces (Nota: no hay un servicio para iniciar sesión. Debe obtener todos los usuarios registrados y recorrer el arreglo)
+
+5.- En la interfaz donde se muestran los detalles del producto, programar el botón para agregar el producto al carrito (usando un servicio para el carrito), mostrando el listado de productos que hay en el carrito luego de agregar el producto. En esa interfaz colocar un botón para procesar la orden. Programar el registro (o procesamiento) de la orden usando el API (el carrito debe limpiarse luego de procesada la orden). Solo puede procesarse una orden si un usuario esta autenticado

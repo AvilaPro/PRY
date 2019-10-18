@@ -1,0 +1,12 @@
+Enunciado de la tarea 3 de la sección 2766
+Realice las siguientes actividades en la aplicación Angular creada en el desafío 1:
+
+1.- Crear un servicio que tenga definido un arreglo de productos, con datos como: id, nombre, existencia, precio, foto, descripción,si es nuevo o usado, entre otros
+
+2.- En la página home mostrar un listado de productos, tomando los datos del servicio. Mostrar nombre, foto y precio
+
+3.- Crear una página nueva que muestre los detalles del producto al cual se le hace click en el listado de la página home
+
+4.- Crear las páginas: iniciar sesión, contacto, nosotros y cualquier otra que considere necesaria
+
+5.- Definir las rutas en el módulo principal y colocar en la página las etiquetas necesarias para navegar entre las páginas creadas
