@@ -1,0 +1,12 @@
+Enunciado de la tarea 3 de la sección 2705
+
+Incorpore en un solo archivo de Balsamiq las maquetas realizadas en el desafío 1 y 2, para luego realizar las siguientes actividades:
+1.- Crear la maqueta de la interfaz donde se visualice el contenido del carrito de compras, asumiento que el carrito puede tener varios productos. Indique cuales requerimientos funcionales y no funcionales esta cubriendo con esta interfaz
+
+2.- Crear la maqueta de la interfaz donde se procese el pago de la compra, asumiento que el carrito puede tener varios productos. Indique cuales requerimientos funcionales y no funcionales esta cubriendo con esta interfaz
+
+3.- Crear la maqueta de la interfaz donde se visualice el perfi del usuario, con información como: datos personales, compras realizadas, preguntas realizadas y cualquier otra información que considere relevante segun los requerimientos
+
+4.- Enlace todas las maquetas para simular todo el proceso de compra: página principal, buscar productos, ver producto, agregar al carrito, ver carrito, pagar, etc.
+
+5.- Colocar como primera maqueta el menú de navegación mejorado, que sea coherente con la navegación realizada en el objetivo anterior

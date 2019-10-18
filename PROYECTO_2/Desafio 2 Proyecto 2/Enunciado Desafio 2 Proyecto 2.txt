@@ -1,0 +1,13 @@
+Enunciado de la tarea 2 de la sección 2705
+
+Para mayor comprensión y coherencia, haga un documento de Word donde inicialmente coloque la lista  (REFINADA y APLICANDO TODAS LAS CORRECCIONES INDICADAS EN DESAFIOS ANTERIORES) de los requerimientos funcionales y no funcionales. Enumerelos para que sea fácil referirse a estos. Luego colocar los printscreen de las actividades realizadas en este desafío:
+
+1.- Tomando como base alguna aplicación con FrontEnd Web de ECommerce, defina el algoritmo general que se debe seguir para que un visitante cualquiera pueda realizar una compra. Utilice ClickCharts como herramienta y sea lo más detallado posible
+
+2.- Diseñe la maqueta del FrontEnd Web para ver los detalles de un producto. Indique cuales requerimientos funcionales y no funcionales esta cubriendo en esta interfaz
+
+3.- Diseñe la maqueta del FrontEnd Web donde se el visitante pueda hacer preguntas sobre un producto al vendedor. Indique cuales requerimientos funcionales y no funcionales esta cubriendo en esta interfaz
+
+4.- Diseñe la maqueta del FrontEnd Web para que un usuario se registre. Indique cuales requerimientos funcionales y no funcionales esta cubriendo en esta interfaz
+
+5.- Diseñe la maqueta del FrontEnd Web para que un usuario inicie sesión. Indique cuales requerimientos funcionales y no funcionales esta cubriendo en esta interfaz

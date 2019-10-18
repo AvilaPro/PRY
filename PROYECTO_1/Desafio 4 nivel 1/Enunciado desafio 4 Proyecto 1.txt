@@ -1,0 +1,15 @@
+Enunciado de la tarea 4 de la sección 2687
+
+Descargar el archivo adjunto que contiene un modelo general de contrato de servicio para el desarrollo de software y realizar las siguientes actividades:
+
+1.- Rellenar el contrato con los datos de su empresa y de un hipotetico cliente, indicando todos los datos que faltan
+
+2.- Agregue al contrato al menos 2 cláusulas que ud considera necesarias para que su contrato este adaptado a sus condiciones (resalte las cláusulas nuevas en amarillo). También puede modificar algunas de las cláusulas ya existentes
+
+3.- Agregar al anexo 1 los requerimientos de software que deberá desarrollar en el presente contrato
+
+4.- Incluya al final del contrato el diagrama de gantt del plan de trabajo definido en el desafío anterior (mejorelo si es necesario)
+
+5.- Incluya al final el presupuesto detallado del proyecto
+
+(Archivo adjunto)

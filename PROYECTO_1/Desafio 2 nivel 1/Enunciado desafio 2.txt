@@ -1,0 +1,17 @@
+Enunciado de la tarea 2 de la sección 2687
+
+Tomando en cuenta la plataforma seleccionada en el desafío anterior, realice las siguientes actividades 
+(lea el archivo http://www.cadif1.com/assets/uploads/files/tareas_secciones/2482/tareas/2482_2.pdf 
+para repasar los temas vistos en clase):
+
+1.- Describa al menos 3 requerimientos NO funcionales de la plataforma
+
+2.- Describa al menos 3 requerimientos funcionales del FrontEnd Web
+
+3.- Describa al menos 3 requerimientos funcionales del FrontEnd Móvil
+
+4.- Si ud tuviera que crear una plataforma de ventas de productos en línea (EComerce), 
+describa al menos 5 requerimientos funcionales que en su opinión debería tener esta palaforma
+
+5.- Si ud tuviera que crear una plataforma de ventas de productos en línea (EComerce), 
+describa al menos 3 requerimientos NO funcionales que en su opinión debería tener esta plataforma

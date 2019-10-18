@@ -1,0 +1,21 @@
+Enunciado de la tarea 1 de la sección 2687
+
+Investigue soluciones o plataformas de software que existan en el mercado que esten construidas siguiendo el paradigma 
+tener varios FrontEnd y un BackEnd (excluyendo Facebook, Twitter, Instagram y Skype) y seleccione una para realizar 
+las siguientes actividades:
+
+1.- Indique el nombre de la aplicación y cual es su objetivo (indique la página oficial de la plataforma)
+
+2.- Indique los tipos de aplicaciones que posee los FrontEnd de la plataforma seleccionada (por ejemplo, 
+tiene un FrontEnd Desktop, el FrontEnd móvil y el FrontEnd Web)
+
+3.- Para cuales sistemas operativos o plataformas tiene FrontEnds disponibles este solución de software 
+(indique la URL del sitio oficial donde se evidencie su respuesta)
+
+4.- Muestre el uso de 2 de los FrontEnd de esta solución (haciendo Prints Screen), donde se evidencie 
+que una acción realizada en uno de los Front lo puede visualizar en otro Front (Por ejemplo, un Tweet 
+realizado en el FrontEnd Movil se puede visualizar en el FrontEnd Web)
+
+5.- Verifique en la página oficial de la solución de software si tiene disponible un API que permita 
+a los programadores construir FrontEnds particulares o personalizados (muestre la URL del sitio oficial 
+donde se evidencie su respuesta)

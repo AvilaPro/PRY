@@ -1,0 +1,13 @@
+Enunciado de la tarea 1 de la sección 2705
+
+Instalar BalsamiqMockups (descargar desde la dirección https://www.dropbox.com/s/9gm23t8dhzjkspz/Balsamiq_Mockups_3.5.8.exe?dl=0) para realizar las siguientes actividades (Nota: para la mayor comprensión y coherencia, haga un resumen en un archivo de Word donde primero coloque los requerimientos funcionales y no funcionales definidos en los desafíos del nivel 1. Adjunte también el archivo editable de Balsamiq más el exportado en pdf de las maquetas para facilitar la revisión)
+
+1.- Haga el mapa del sitio, tomando en cuenta todas las interfaces que ud cree (hasta el momento) seran necesarias para cubrir los requerimientos funcionales de la aplicación
+
+2.- Describir textualmente de forma detallada qué información aparecerá en la página principal de su sitio y cuales funcionalidades podrá realizar el usuario en esta página (cuales requerimientos funcionales se cubriran en esta interfaz)
+
+3.- Haga una maqueta donde se visualice los elementos que ud sugiere deben aparecer en la página principal
+
+4.- Destaque con comentarios los requerimientos no funcionales que está tomando en cuenta al diseñar la interfaz. Si no tiene requerimientos No Funcionales de diseño, definalos
+
+5.- Coloque en el diseño de la maqueta de la página un menú de navegación con opciones que sean coherente con el mapa del sitio realizado en el objetivo 1

@@ -1,0 +1,20 @@
+Enunciado de la tarea 3 de la sección 2687
+
+Haga un archivo de Word donde ordenadamente responda a los siguientes objetivos, colocando en en el archivo toda evidencia necesaria para demostrar que realizó la actividad indicada:
+
+1.- Investigar 2 herramientas Web de gestión de proyectos (que permita visualizar el proyecto en un diagrama de Gantt) 
+e indicar las caracteristicas más resaltantes de cada una. Seleccione una de las 2 indicando por qué la selecciona
+
+2.- Haga una revisón de los requerimientos funcionales planteados en el desafío anterior y agregue a esta lista suficientes 
+requerimientos para lograr la funcionalidad de la aplicación de comercio electrónico (ventas en línea). A cada requisimiento
+ debe colocar un número.
+
+3.- Dado los requerimientos, describa el listado de actividades tentativas que se deberían realizar, indicando en cada 
+actividad cual de los requisitos busca cubrir y a qué fase del proceso de desarrollo pertenece (Levantamiento de Información, 
+Diseño, Implementación o Verificación)
+
+4.- Montar el listado de actividades en la herramienta de gestión de proyecto seleccionada en el objetivo 1, indicando el 
+tiempo estimado de cada actividad y la relación que hay entre ellas
+
+5.- Dada las actividades y el tiempo estimado total para el proyecto, indique un presupuesto tentativo para éste y una 
+fecha de entrega tentativa

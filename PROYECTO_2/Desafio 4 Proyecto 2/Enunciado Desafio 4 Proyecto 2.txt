@@ -1,0 +1,13 @@
+Enunciado de la tarea 4 de la sección 2705
+
+Realizar las siguientes actividades para el área administrativa de la aplicación, asegurandose de colocar las opciones correctas (botones de acción, cuadros de texto, select, tablas, etc) según sea el caso:
+
+1.- Hacer la maqueta del inicio de sesión y la página principal que se mostrará luego de iniciar sesión como administrador, mostrando un menú con todas la opciones que un usuario administrador deberia manejar
+
+2.- Hacer y vincular las maquetas para el CRUD de la información de los productos que se venden en la tienda (listado, registro, eliminación y modificación)
+
+3.- Hacer y vincular las maquetas para el CRUD de la información de los clientes que se han registrado en la tienda (listado, registro, eliminación y modificación)
+
+4.- Hacer y vincular las maquetas para el CRUD de la información de las compras realizadas por los clientes que se han registrado en la aplicación (listado y verificación)
+
+5.- Hacer maquetas donde se puedan visualizar estadisticas de la aplicación: ventas, clientes, devoluciones, etc.

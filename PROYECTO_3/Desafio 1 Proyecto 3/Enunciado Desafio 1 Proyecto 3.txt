@@ -1,0 +1,13 @@
+Enunciado de la tarea 1 de la sección 2740
+
+Realizar las siguientes actividades:
+
+1.- Crear la maqueta HTML de la página principal del FrontEnd Web, de forma tal que tenga una apariencia como la maqueta creada en los desafíos anteriores
+
+2.- Crear la maqueta HTML de la página de registro, de forma tal que tenga una apariencia como la maqueta creada en los desafíos anteriores
+
+3.- Crear el semanticamente contenido de las maquetas
+
+4.- Agregar a la maqueta de la página principal un menú de navegación que permite vincular con la página de registro
+
+5.- Crear un archivo CSS que contenga los estilos necesarios para la maquetación y vincular este archivo en ambos archivos HTML
