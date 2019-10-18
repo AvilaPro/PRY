@@ -1,0 +1,12 @@
+Enunciado de la tarea 2 de la sección 2740
+Realizar las siguientes actividades:
+
+1.- Crear la maqueta HTML de la página para ver la información de un producto
+
+2.- Crear la maqueta HTML de la página para ver los productos del carrito de compras
+
+3.- Crear la maqueta HTML de la página para procesar el pago
+
+4.- Crear la maqueta HTML de la página para iniciar sesión
+
+5.- Enlazar todas las páginas

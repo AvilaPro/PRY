@@ -1,0 +1,12 @@
+Enunciado de la tarea 3 de la sección 2740
+Realizar las siguientes actividades
+
+1.- Hacer que la página principal tenga un diseño responsivo de forma tal que se ajusten los elementos adecuadamente para el tamaño de una pantalla de Tablet (6 a 10 pulgadas)
+
+2.- Hacer que la página principal tenga un diseño responsivo de forma tal que se ajusten los elementos adecuadamente para el tamaño de una pantalla de telefono (4 a 5 pulgadas)
+
+3.- Hacer que la página para ver la información del producto tenga un diseño responsivo de forma tal que se ajusten los elementos adecuadamente para el tamaño de una pantalla de Tablet (7 a 10 pulgadas)
+
+4.- Hacer que la página para ver la información del producto tenga un diseño responsivo de forma tal que se ajusten los elementos adecuadamente para el tamaño de una pantalla de teléfono(4 a 5 pulgadas)
+
+5.- Eliminar el scrooll horizontal (barra de desplazamiento horizontal)

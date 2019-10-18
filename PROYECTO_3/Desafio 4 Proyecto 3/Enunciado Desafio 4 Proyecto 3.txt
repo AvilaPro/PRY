@@ -1,0 +1,12 @@
+Enunciado de la tarea 4 de la sección 2740
+Hacer que la pagina de registro y de iniciar sesión sea la misma y luego realizar las siguientes actividades:
+
+1.- Crear un archivo JavaScript donde defina varios arreglos paralelos (uno para cada dato que se solicita al usuario al registrarse, por ejemplo, uno para el nombre, uno para el correo, uno para la contraseña, etc). Inicializar el arreglo con valores arbitrarios (al menos 5 valores en cada arreglo)
+
+2.- Validar el formulario de registro de usuario, verificando que los datos obligatorios esten presentes en los inputs correspondientes
+
+3.- Validar el correo
+
+4.- Validar que el correo del usuario que se esta intentando agregar no este presente en el arreglo de correos (definido en el objetivo 1). Si ya existe, que se muestre un mensaje de error indicando que ya esta registrado, en caso contrario, se agreguen los datos a los arreglos correpondientes y mostrar un mensaje de exito
+
+5.- En el formulario de inicio de sesión, verificar si el correo y la contraseña introducidos por el usuario existen en los arreglos correspondientes (los arreglos definidos en el objetivo 1). En caso de que no existan, mostrar un mensaje de error indicando que no esta registrado. En caso de existir, mostrar la página del perfil del usuario (con datos ficticios)
